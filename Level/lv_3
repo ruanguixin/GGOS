@@ -1,0 +1,19 @@
+#第一关的关卡信息，关卡信息不要包含空格
+#敌人数量
+enemyCount=12
+#敌人类型，多个类型使用逗号分隔
+enemyType=0,1
+#地图生成的方法通过哪个方法生成
+method=addRow
+#该方法调用几次
+invokeCount=4
+#关卡难度
+levelType=2
+#方法调用四次提供的参数
+#int startX, int startY, int endX, int type, final int DIS
+#0代表边界，大于0的值地图元素块宽度的倍数
+#TYPE_ROCK = 0; TYPE_CRYSTAL = 3; TYPE_GRASS = 2;TYPE_HARD_ROCK = 1;
+param1=0,0,0,1,0
+param2=0,2,0,1,1
+param3=0,4,0,1,0
+param4=0,6,0,1,1
