@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a4418a95-664f-466b-8858-24059aed09fc" name="Default Changelist" comment="" />
+    <list default="true" id="a4418a95-664f-466b-8858-24059aed09fc" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1aWIro7HTQHw7rlqrxmEmjkMaJf" />
   <component name="ProjectViewState">
@@ -142,16 +147,20 @@
     </state>
     <state x="257" y="80" key="NewModule_or_Project.wizard/0.23.1280.713@0.23.1280.713" timestamp="1588914464947" />
     <state x="257" y="80" key="NewModule_or_Project.wizard/0.23.1280.715@0.23.1280.715" timestamp="1588913674199" />
-    <state x="295" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1589020573086">
+    <state x="295" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1589441301142">
       <screen x="0" y="23" width="1280" height="710" />
     </state>
-    <state x="295" y="195" key="com.intellij.ide.util.TipDialog/0.23.1280.710@0.23.1280.710" timestamp="1589020573086" />
+    <state x="295" y="195" key="com.intellij.ide.util.TipDialog/0.23.1280.710@0.23.1280.710" timestamp="1589441301142" />
     <state x="295" y="195" key="com.intellij.ide.util.TipDialog/0.23.1280.713@0.23.1280.713" timestamp="1589013909367" />
     <state x="295" y="195" key="com.intellij.ide.util.TipDialog/0.23.1280.716@0.23.1280.716" timestamp="1587805257658" />
     <state x="372" y="23" width="683" height="716" key="find.popup" timestamp="1587002871171">
       <screen x="0" y="23" width="1280" height="716" />
     </state>
     <state x="372" y="23" width="683" height="716" key="find.popup/0.23.1280.716@0.23.1280.716" timestamp="1587002871171" />
+    <state x="34" y="23" key="new project wizard" timestamp="1589441936542">
+      <screen x="0" y="23" width="1280" height="710" />
+    </state>
+    <state x="34" y="23" key="new project wizard/0.23.1280.710@0.23.1280.710" timestamp="1589441936542" />
     <state x="689" y="23" key="refactoring.ChangeSignatureDialog" timestamp="1587456783083">
       <screen x="0" y="23" width="1280" height="710" />
     </state>
